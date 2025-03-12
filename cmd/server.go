@@ -18,6 +18,7 @@ import (
 	_ "github.com/hellofresh/janus/pkg/plugin/oauth2"
 	_ "github.com/hellofresh/janus/pkg/plugin/organization"
 	_ "github.com/hellofresh/janus/pkg/plugin/rate"
+	_ "github.com/hellofresh/janus/pkg/plugin/requestadapter"
 	_ "github.com/hellofresh/janus/pkg/plugin/requesttransformer"
 	_ "github.com/hellofresh/janus/pkg/plugin/responsetransformer"
 	_ "github.com/hellofresh/janus/pkg/plugin/retry"
